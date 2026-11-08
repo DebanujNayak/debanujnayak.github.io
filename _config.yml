@@ -13,9 +13,7 @@ author: Debanuj Nayak
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  Publications: "publications"
-  CV: "/docs/Debanuj_Nayak_PhD_CV.pdf"
+navbar-links: {}
 #  About Me: "aboutme"
 #  Resources:
 #   - Beautiful Jekyll: "https://beautifuljekyll.com"
